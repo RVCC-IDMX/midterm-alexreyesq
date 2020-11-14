@@ -13,7 +13,7 @@ nav{
 
     margin: 5rem;
     padding:5px;
-    border: 4px solid #886644
+    border: 4px solid #886644;
     box-shadow: inset 3px 10px 13px -3px #000000;
 }
 
@@ -21,7 +21,7 @@ main{
 
     margin: 5rem;
     padding:5px;
-    border: 4px solid #886644
+    border: 4px solid #886644;
     box-shadow: inset 3px 10px 13px -3px #000000;
 }
 
@@ -29,7 +29,7 @@ aside{
 
     margin: 5rem;
     padding:5px;
-    border: 4px solid #886644
+    border: 4px solid #886644;
     box-shadow: inset 3px 10px 13px -3px #000000;
 }
 
@@ -37,6 +37,6 @@ footer{
 
     margin: 5rem;
     padding:5px;
-    border: 4px solid #886644
+    border: 4px solid #886644;
     box-shadow: inset 3px 10px 13px -3px #000000;
 }
