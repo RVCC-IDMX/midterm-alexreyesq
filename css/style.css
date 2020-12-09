@@ -81,15 +81,6 @@ main p:first-of-type::first-line {
     font-size:20px;
 }
 
-/* desktop layout */
-@media screen and (max-width: 800px) {
-    main {
-        margin-bottom:1rem;
-    }
-    aside {margin-bottom:7rem;}
-}
-
-
 /* aside */
 aside {
     float:left;
@@ -109,7 +100,7 @@ aside {
     margin-bottom:7rem;
 }
 
-/* tablet layout */
+/* mobile for aside and main */
 @media screen and (max-width: 800px) {
     main, aside {   
       width: 100%;
